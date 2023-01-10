@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="350" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desislawa&label=Profile%20views&color=0e75b6&style=flat" alt="desislawa" /> </p>
 
-- 🔭 I’m currently student at [SoftUni](https://softuni.bg/) and [UNWE](https://www.unwe.bg/)
+- 🔭 I’m currently student at [SoftUni](https://softuni.bg/), [UNWE](https://www.unwe.bg/) and [Udemy](https://www.udemy.com/?id=[[timestamp]])
 
 - 🌱 I’m currently learning **JavaScript,Java, HTML and CSS**
 
